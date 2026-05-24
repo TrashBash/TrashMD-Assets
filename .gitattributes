@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Asset bundles are downloaded verbatim by TrashMD; keep bytes intact
+*.tmdasset binary
+
+# Binary previews
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary

@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "primitive_cube",
+      "name": "Cube",
+      "author": "TrashBash",
+      "version": "1.0",
+      "description": "Unit cube primitive with a default material.",
+      "tags": [
+        "primitive",
+        "shape",
+        "cube",
+        "example"
+      ],
+      "image": "assets/primitive_cube/preview.png",
+      "download_path": "assets/primitive_cube/cube.tmdasset",
+      "file_type": ".tmdasset",
+      "file_size": "5.7 KB"
+    },
+    {
+      "id": "primitive_sphere",
+      "name": "Sphere",
+      "author": "TrashBash",
+      "version": "1.0",
+      "description": "Sphere primitive with a default material.",
+      "tags": [
+        "primitive",
+        "shape",
+        "sphere",
+        "example"
+      ],
+      "image": "assets/primitive_sphere/preview.png",
+      "download_path": "assets/primitive_sphere/sphere.tmdasset",
+      "file_type": ".tmdasset",
+      "file_size": "136.8 KB"
+    },
+    {
+      "id": "primitive_plane",
+      "name": "Plane",
+      "author": "TrashBash",
+      "version": "1.0",
+      "description": "1x1 plane primitive on the XZ axis with a default material.",
+      "tags": [
+        "primitive",
+        "shape",
+        "plane",
+        "example"
+      ],
+      "image": "assets/primitive_plane/preview.png",
+      "download_path": "assets/primitive_plane/plane.tmdasset",
+      "file_type": ".tmdasset",
+      "file_size": "2.7 KB"
+    },
+    {
+      "id": "primitive_cylinder",
+      "name": "Cylinder",
+      "author": "TrashBash",
+      "version": "1.0",
+      "description": "Capped cylinder primitive (16 segments) with a default material.",
+      "tags": [
+        "primitive",
+        "shape",
+        "cylinder",
+        "example"
+      ],
+      "image": "assets/primitive_cylinder/preview.png",
+      "download_path": "assets/primitive_cylinder/cylinder.tmdasset",
+      "file_type": ".tmdasset",
+      "file_size": "23.6 KB"
+    }
+  ]
+}
